@@ -12,3 +12,6 @@ i.  what is the difference between supervised and unsupervised learning?
 - in supervised learning the algorithim learns from the training dataset while unsupervised learns from random collected data
 ii. describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries
 - scikit learn is a library of algorithims, it is built based of a few math python libraries which allows it to have so many abilities. without mini data anlysis libraries it is unable to perform those actions
+
+day 4 - today we learned about different datasets that are available for solving differing issues. 
+- the dataset that i found was a collection of data from the national hurricane center and central pacific hurricane center. i collected this data so that i could solve the issue of predicting tropical storms and hurricanes. by training systems to recognize patterns prior to the occurence of a storm https://www.nhc.noaa.gov/data/
