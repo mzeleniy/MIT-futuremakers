@@ -15,3 +15,11 @@ ii. describe why the following statement is FALSE: Scikit-Learn has the power to
 
 day 4 - today we learned about different datasets that are available for solving differing issues. 
 - the dataset that i found was a collection of data from the national hurricane center and central pacific hurricane center. i collected this data so that i could solve the issue of predicting tropical storms and hurricanes. by training systems to recognize patterns prior to the occurence of a storm https://www.nhc.noaa.gov/data/
+- the algorithim for predicting these patterns should not be overly complex because the resulting hurricane always remains the same. what should be changing are the factors that go into their creation, wind, humidity, and other weather factors. 
+- an additonal algorithim can be developed into predicting how intense the hurricane will be. 
+
+
+day 7 - 
+what are tensors and and what are they used for in machine learning? 
+a tensor is a mathematical representation of a physical entity that may be characterized by magnitude and multiple directons. it is represented by a R number in a particular dimensional space. in a N dimensional space scalars will be  represented with 1 number, vectors need N numbers and tensors need N^R.
+
