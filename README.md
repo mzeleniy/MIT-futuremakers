@@ -21,5 +21,8 @@ day 4 - today we learned about different datasets that are available for solving
 
 day 7 - 
 what are tensors and and what are they used for in machine learning? 
-a tensor is a mathematical representation of a physical entity that may be characterized by magnitude and multiple directons. it is represented by a R number in a particular dimensional space. in a N dimensional space scalars will be  represented with 1 number, vectors need N numbers and tensors need N^R.
+a tensor is a mathematical representation of a physical entity that may be characterized by magnitude and multiple directons. it is represented by a R number in a particular dimensional space. in a N dimensional space scalars will be  represented with 1 number, vectors need N numbers and tensors need N^R. a vector is a one-dimensional or first order tensor and a matrix is a two-dimensional or second order tensor. in the machine learning world tensors allow the design of 3 dimensional shapes
+what did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
+when i ran the first set of code the values did not actually get multiplied out because the tensorflow was lazy in the not interactive environment. i also ran this code through an editor (atom) and then opened it through my terminal, where the values were actually calculated. 
+
 
