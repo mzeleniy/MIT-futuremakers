@@ -25,4 +25,13 @@ a tensor is a mathematical representation of a physical entity that may be chara
 what did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
 when i ran the first set of code the values did not actually get multiplied out because the tensorflow was lazy in the not interactive environment. i also ran this code through an editor (atom) and then opened it through my terminal, where the values were actually calculated. 
 
+day 8 - today i learned about the structure of neural networks and how they are built. the session was long, but I learned more by rewatching the sessions. code in process
 
+
+day 9 - in process
+
+day 10 - 
+How do you think Machine Learning or AI concepts were utilized in the design of this game?
+In this game the creators utilized the skillsets that recruiters would need to look for when hiring employees. Using these skillsets the AI began to recognize the pattern of what was looked for when hiring workers. The orange workers were also the ones with the best assets. The best workers would go to the front of the line because AI learned thats where I would look first. 
+Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
+An example of a biased machine learning model could be one that predicts test scores from different places around NYC. Because of outside factors like family situation and poverty level students are capable of attending school at differnt amounts. Usually environments with lower class families require students to work more and study less often. However, just because a student is from a certain place does not mean they could easily be an outlier. The model would be predicting straight off the bat that those students would be doing worse 
