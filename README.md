@@ -38,3 +38,9 @@ An example of a biased machine learning model could be one that predicts test sc
 extra : by collecting more data on faces systems can become better at recognizing them and classifying them. with less data the results are less accurate and potentially more bias. in order to avoid big implications the systems should not be used in crime until it is more accurate
 
 day 11:
+Succinctly list the differences between a Convolutional Neural Network and a Fully Connected Neural Network.
+the convolutional layer has the main portion of the network's computational load 
+in a fully connected network all the nuerons are in connection with each other, in convolutional each neuron is only connected to a few nearby ones.  
+a convolutional layer is much more specialized and efficient since every neuron carries the same weight.since there are less connections this makes these layers cheaper in terms of memroy and computed power
+convulational layers are typically used for images, use of local connection
+a fully connected layer ismore expensive because of an increase in weights and connections
