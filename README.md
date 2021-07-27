@@ -44,3 +44,13 @@ in a fully connected network all the nuerons are in connection with each other, 
 a convolutional layer is much more specialized and efficient since every neuron carries the same weight.since there are less connections this makes these layers cheaper in terms of memroy and computed power
 convulational layers are typically used for images, use of local connection
 a fully connected layer ismore expensive because of an increase in weights and connections
+
+day 12 + 13 (weekend) - caught up on some work and attempted to edit the code that was not working 
+
+day 14 - today we spent some time learning about loss functions, i enjoyed learning how the algorithims are checked so that they are actually deemed effective. how much time or data can be lost before it is considered not effective?
+
+day 15- the rectified linear function allows 
+
+day 16 - 
+
+
