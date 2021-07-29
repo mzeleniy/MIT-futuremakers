@@ -49,8 +49,21 @@ day 12 + 13 (weekend) - caught up on some work and attempted to edit the code th
 
 day 14 - today we spent some time learning about loss functions, i enjoyed learning how the algorithims are checked so that they are actually deemed effective. how much time or data can be lost before it is considered not effective?
 
-day 15- the rectified linear function allows 
+day 15- the rectified linear function allows...
+- computational simplicity - trivial to implement, requiring only a max() function. there is no need for exponential computation so it is cheaper
+- can output a true zero value - this allows hidden layers to store one or more true zero values, it can accelerate learning and simplify the model
+- linear behavior - the neural network is easier to optimize, there is no issue of vanishing gradients as they remain proportional to the node activation 
+- deep networks - does not require unsupervised pre training to make accurate predictions.
+- it is used so that not all neurons are activated at the same time. this can be used with face recognition as if the value inputed is negative(incorrect) the 0 is automatically returned.
 
 day 16 - 
+
+day 17 - 
+
+day 18 - 
+
+day 20 - 
+
+
 
 
