@@ -25,10 +25,10 @@ a tensor is a mathematical representation of a physical entity that may be chara
 what did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
 when i ran the first set of code the values did not actually get multiplied out because the tensorflow was lazy in the not interactive environment. i also ran this code through an editor (atom) and then opened it through my terminal, where the values were actually calculated. 
 
-day 8 - today i learned about the structure of neural networks and how they are built. the session was long, but I learned more by rewatching the sessions. code in process
+day 8 - today i learned about the structure of neural networks and how they are built. the session was long, but I learned more by rewatching the sessions.
 
 
-day 9 - in process
+day 9 - today I learned more about datasets and implementing them in my code
 
 day 10 - 
 How do you think Machine Learning or AI concepts were utilized in the design of this game?
