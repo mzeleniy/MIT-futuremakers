@@ -56,13 +56,15 @@ day 15- the rectified linear function allows...
 - deep networks - does not require unsupervised pre training to make accurate predictions.
 - it is used so that not all neurons are activated at the same time. this can be used with face recognition as if the value inputed is negative(incorrect) the 0 is automatically returned.
 
-day 16 - 
+day 16 - ethics in AI - today I learned of the importance of maintaining ethical behavior when creating technology that judges and characterizes people. the data that the models are trained on may include biased labeling and exclusion which is why all research should be fully disclosed. 
 
-day 17 - 
+day 17 - today we worked on image classification. the class image pre-processing was the biggest step in the cycle, then came detection, feature extraction and training, and classification of an object. 
 
-day 18 - 
+day 18 - today we learned about the different aspects of regularization.  overfitting is when the algorithim is overtrained with a very slim error. underfiting is when the algorithim is undertraind with a high error percentage. We can use L1, L2, drop out and early stopping
 
-day 20 - 
+day 21 - today i learned about autoencoders which is a neural network that learns data in an unsupervisd mannner. i learned that autoencoders have the ability to reconstruct data if they have learned the features that came from the input data. even with blurry images this method learns to differentiate them.
+
+day 22 - affective computing - today we learned about the kind of AI that is trained to recognize human emotions  
 
 
 
