@@ -25,10 +25,7 @@ a tensor is a mathematical representation of a physical entity that may be chara
 what did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
 when i ran the first set of code the values did not actually get multiplied out because the tensorflow was lazy in the not interactive environment. i also ran this code through an editor (atom) and then opened it through my terminal, where the values were actually calculated. 
 
-day 8 - today i learned about the structure of neural networks and how they are built. the session was long, but I learned more by rewatching the sessions.
-
-
-day 9 - today I learned more about datasets and implementing them in my code
+day 8 and 9  - today i learned about the structure of neural networks and how they are built. the session was long, but I learned more by rewatching the sessions. i also took time to explore the kaggle website and look at the code that different people published. it was in great detail with commentary and explanations 
 
 day 10 - 
 How do you think Machine Learning or AI concepts were utilized in the design of this game?
@@ -64,7 +61,11 @@ day 18 - today we learned about the different aspects of regularization.  overfi
 
 day 21 - today i learned about autoencoders which is a neural network that learns data in an unsupervisd mannner. i learned that autoencoders have the ability to reconstruct data if they have learned the features that came from the input data. even with blurry images this method learns to differentiate them.
 
-day 22 - affective computing - today we learned about the kind of AI that is trained to recognize human emotions  
+day 22 - affective computing - today we learned about the kind of AI that is trained to recognize human emotions. this type of training requires huge amounts of data because every face expresses a particular emotion differently. these models are not yet extremely accurate
+
+day 23 - today we learned about natural language processing which combines language and technology together. however with the somewhat mystery code surrounding this it is hard to tell if bias exists
+
+day 24 - computer vision: i found it really interesting to learn the differences between how I view an image vs the computer that is displaying it.
 
 
 
